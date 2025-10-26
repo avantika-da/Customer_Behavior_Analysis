@@ -1,4 +1,4 @@
-Data Analytics Portfolio Project: Sales Performance Optimization
+Data Analytics Portfolio Project: Customer_Behavior_Analysis
 
 Overview
 
@@ -10,7 +10,7 @@ Dataset
 
 Source: Mock company sales data (e.g., Global Superstore Dataset).
 
-Content: Contains over 50,000 records of individual transactions, including product details, customer demographics, regional sales performance, shipping logistics, and profit margins.
+Content: Contains over 3,900 records of individual transactions, including product details, customer demographics, regional sales performance, shipping logistics, and profit margins.
 
 Key Metrics Analyzed: Total Revenue, Profit Margin by Region/Category, Customer Segmentation, and Order Fulfillment Efficiency.
 
@@ -148,4 +148,4 @@ Execute Python Script: Run the main data preparation script to clean the data an
 python data_cleaning.py
 
 
-View Dashboard: Open the Sales_Dashboard.pbix file in Power BI and refresh the data connection, pointing it to your local PostgreSQL instance.
+View Dashboard: Open the customer_shopping_behavior.pbix file in Power BI and refresh the data connection, pointing it to your local PostgreSQL instance.
