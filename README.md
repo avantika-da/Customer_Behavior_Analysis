@@ -1,6 +1,6 @@
 Data Analytics Portfolio Project: Customer_Behavior_Analysis
 
-Overview
+Overview  
 
 This project focuses on a complete end-to-end data analytics pipeline, from data ingestion and cleaning in Python to advanced data storage, query execution in PostgreSQL, and final visualization in a dynamic Power BI Dashboard. The primary objective was to analyze historical sales data to uncover key performance indicators (KPIs), identify potential areas for optimization, and present actionable insights.
 
